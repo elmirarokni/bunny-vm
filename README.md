@@ -1,3 +1,4 @@
+[![deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # bunny-vm
  Rabb.it clone built using xfvb, headless chrome and xdotool
 
