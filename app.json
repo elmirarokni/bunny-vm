@@ -1,0 +1,6 @@
+{
+    "name": "bunny-vm",
+    "description": "Rabb.it clone built using xfvb, headless chrome and xdotool",
+    "repository": "https://github.com/elmirarokni/bunny-vm",
+    "stack": "container"
+}
